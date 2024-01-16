@@ -1,4 +1,4 @@
-name: googjob
+name:onedrive
 on: workflow_dispatch
 jobs:
   build:
